@@ -2,4 +2,4 @@
 
 Small project for asynchornize fetching a csv file.
 
-Sorting datas is also implmented.
+and sorting datas in by O(NLog(N))
